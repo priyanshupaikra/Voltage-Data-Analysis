@@ -2,5 +2,4 @@ streamlit
 pandas
 matplotlib
 numpy
-find_peaks
 Pillow
